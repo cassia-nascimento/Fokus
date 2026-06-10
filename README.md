@@ -13,7 +13,7 @@ O **Fokus** é uma aplicação web interativa projetada para otimizar a produtiv
 
 A plataforma permite chavear entre três períodos customizados (Foco, Descanso Curto e Descanso Longo), adaptando dinamicamente a identidade visual da página, os cronômetros e disparando gatilhos sonoros imersivos.
 
-<p align="center"> <img src="imagens/tela-inicial.png" alt="Fluxo de Cadastro" width="90%"> </p>
+<p align="center"> <img src="imagens/tela-inicial.png" alt="Tela Inicial" width="90%"> </p>
 
 ---
 
